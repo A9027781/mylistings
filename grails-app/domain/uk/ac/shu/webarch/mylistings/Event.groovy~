@@ -4,7 +4,7 @@ class Event {
 
     String eventName
     Date eventDate
-    Double price
+    String price
     String startTime
     String endTime
 
