@@ -7,6 +7,7 @@ class Venue {
     String venuePostCode
     String venueWebsite
     String venueTelephone
+    String venueWebsite
 
     static constraints = {
     }
