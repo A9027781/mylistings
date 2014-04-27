@@ -1,15 +1,17 @@
 package uk.ac.shu.webarch.mylistings
 
+//Domain for the events
+
 class Event {
 
-    String EventID
-    String VenueID
-    String PromoterID
-    String eventName
-    Double price
-    String startTime
-    String endTime
-    Date eventDate
+    String EventID    // Unique ID of the event
+    String VenueID    // Unique ID of the Venue
+    String PromoterID // Unique ID of the promoter
+    String eventName  // Name of the event
+    Double price      // Price of the event
+    String startTime  // Event Start Time 
+    String endTime    // Event End Time
+    Date eventDate    // Date of the event
 
     static constraints = {
     }
