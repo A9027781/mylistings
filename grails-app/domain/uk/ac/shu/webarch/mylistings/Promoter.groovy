@@ -4,11 +4,11 @@ package uk.ac.shu.webarch.mylistings
 
 class Promoter {
 
-    String PromoterID          // Unique ID of the promoter
-    String promoterName        // Name of the promoter
-    String promterEmail        // Contact email of the promoter
-    String promoterTelephone   // Contact phone number of the promoter
-    String promoterWebsite     // Website URL of the prmoter, can also be Facebook account
+    String PromoterID		// Unique ID of the promoter
+    String promoterName		// Name of the promoter
+    String promterEmail		// Contact email of the promoter
+    String promoterTelephone	// Contact phone number of the promoter
+    String Website     		// Website URL of the prmoter, can also be Facebook account
 
     static constraints = {
     }

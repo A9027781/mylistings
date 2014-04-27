@@ -1,5 +1,7 @@
 package uk.ac.shu.webarch.mylistings
 
+//Domain for the venue
+
 class Venue {
 
     String venueID		// Unique ID of the Venue

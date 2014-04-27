@@ -1,5 +1,7 @@
 package uk.ac.shu.webarch.mylistings
 
+//Domain for the events
+
 class Event {
 
     String EventID    // Unique ID of the event
