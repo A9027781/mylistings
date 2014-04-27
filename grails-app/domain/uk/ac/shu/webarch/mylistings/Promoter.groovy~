@@ -5,7 +5,7 @@ class Promoter {
     String promoterName
     String promterEmail
     String promoterTelephone
-    String website
+    String promoterWebsite
 
     static constraints = {
     }
